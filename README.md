@@ -44,5 +44,9 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## OUTPUT:
+![hrf-grp](https://github.com/user-attachments/assets/f085d505-8b66-4de5-a3f5-587c3f7b31d4)
+![hr-grp](https://github.com/user-attachments/assets/0d4eb59d-a5cf-4904-ba54-b1c726031dcf)
 
 ## RESULT:
+
+![half wave](https://github.com/user-attachments/assets/8fcb8a17-b760-49b1-9d16-79aff53abd08)
