@@ -3,6 +3,10 @@
 ## AIM:
 To simulate a half wave rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
+<img width="1734" height="993" alt="image" src="https://github.com/user-attachments/assets/789fcadf-3564-478b-94dd-b267c078ae98" />
+<img width="1551" height="998" alt="image" src="https://github.com/user-attachments/assets/c3b09f11-c042-4d3b-923a-e401303e8c25" />
+
+
 
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
